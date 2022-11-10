@@ -1,0 +1,18 @@
+{
+  "path": "https://www.google.com",
+  "seasons": [
+    "winter",
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "body": "All seasons",
+  "author_name": "Bob",
+  "author_id": "68712648721648271",
+  "created_date": "2021-02-25",
+  "created_time": "16:25:21",
+  "updated_date": "2021-02-26",
+  "updated_time": "08:21:20",
+  "counters_total": 3,
+  "id": "543435435"
+}
